@@ -1,4 +1,10 @@
+<!-- A. Heading / Banner -->
+<h1 align="center">7OOP Lab Task — Justin Thio D. Teves<h1>
 
+<p align="center">
+  <!-- Optional banner -->
+  <img src="https://github.com/user-attachments/assets/293217cb-b6db-4646-8e0a-81a27cd7354b" alt="Banner" width="500"/>
+</p>
 
 # Hi, Im Justin Thio D. Teves
 
@@ -26,4 +32,6 @@ Hi, I’m Justin Thio D. Teves, most people call me Thio. Im in Legal Age, He/Hi
 ## Contacts
 - Facebook: [@Thio](https://www.facebook.com/justinthio.teves)
 - Instagram: [@Zekken](https://www.instagram.com/koreooeoeo?igsh=MXdvYzhwejJnN3V1NA==)
-- You can also contact me via email: Personal Email: Justinthio25@gmail.com
+- CCA Email: jteves24-1616@cca.edu.ph
+- You can also contact me via email: justinthio25@gmail.com
+  
