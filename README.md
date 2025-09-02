@@ -14,7 +14,9 @@ Digital and Traditional Art (integrating creativity with tech)
 # Fun Facts about Me
 
   • I Love Drawing Traditional/Digitally.
+
   • I Watch Anime and Read Manga.
+
   • Sometimes, i Play RPG and Moba Games too.
 
 # Contacts
