@@ -19,7 +19,7 @@ I’m in legal age, use **He/Him**, and an **INFJ** (if you’re into that).
 
 I’m currently taking **Bachelor of Science in Computer Science** at *City College of Angeles*.  
 I’m passionate about blending **technology and creativity**.  
-I also enjoy **art** — both digital illustrations and traditional drawing.  
+I also enjoy **art**  both digital illustrations and traditional drawing.  
 
 ---
 
