@@ -31,6 +31,15 @@ I also enjoy **art**  both digital illustrations and traditional drawing.
 
 ---
 
+## Codes I've been Learning
+
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)]()
+
+
+---
+
 ## 🎭 Fun Facts About Me  
 
 - ✏️ I love drawing (traditional & digital).  
