@@ -42,7 +42,7 @@ I also enjoy **art**  both digital illustrations and traditional drawing.
 ## 📫 Contacts  
 
 - 🌐 Facebook: [@Thio](https://www.facebook.com/justinthio.teves)  
-- 📸 Instagram: [@Zekken](https://www.instagram.com/koreooeoeo?igsh=MXdvYzhwejJnN3V1NA==)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/koreooeoeo?igsh=MXdvYzhwejJnN3V1NA==) @koreooeoeo<br>
 - 📧 CCA Email: **jteves24-1616@cca.edu.ph**  
 - ✉️ Personal Email: **justinthio25@gmail.com**  
 
