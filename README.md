@@ -43,6 +43,8 @@ I also enjoy **art**  both digital illustrations and traditional drawing.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/justinthio.teves) Justin Thio Teves<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/koreooeoeo?igsh=MXdvYzhwejJnN3V1NA==) Koreooeoeo<br>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lust-h6e?si=UUzsOL-4l7UU06D3) Zekkennn
+
 - 📧 CCA Email: **jteves24-1616@cca.edu.ph**  
 - ✉️ Personal Email: **justinthio25@gmail.com**  
 
