@@ -31,6 +31,19 @@ I also enjoy **art**  both digital illustrations and traditional drawing.
 
 ---
 
+## 📂 Midterm Projects
+
+Midterm Lab Task #1: https://drive.google.com/file/d/1mdFeCGnbiFHMNxabT0tp5faH8ptDBcHJ/view?usp=drivesdk
+Midterm Lab Task #2: https://drive.google.com/file/d/1i9cGb5efJNqZhHacKWC0STGfigu63hZb/view?usp=drivesdk
+Midterm Lab Task #3: https://drive.google.com/file/d/119V8KIKWSx-xosSc6oORGGyf2NYG8389/view?usp=drivesdk
+Midterm Lab Task #4: 
+https://drive.google.com/file/d/1JqVXTZ3OlMURXohai9YjDgMWmbxChOq8/view?usp=drivesdk
+Midterm Lab Task #5: https://drive.google.com/file/d/1D6uGc3ZVcdjcK6bmCExZro2NYJk1AJNo/view?usp=drivesdk
+Midterm Lab Task #6: https://drive.google.com/file/d/103pXDrSUh1iJHAQ2dpzdc0jI8nfWFt1h/view?usp=drivesdk
+https://drive.google.com/file/d/1w4dRkuFyVr8CtmxzEtqDumFu85QKOEcy/view?usp=drivesdk
+
+---
+
 ## Programming Languages I've been Learning
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)]()
